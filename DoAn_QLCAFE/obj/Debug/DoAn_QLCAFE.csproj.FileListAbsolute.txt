@@ -22,3 +22,6 @@ C:\Users\Admin\Desktop\DoAn_QLCAFE\DoAn_QLCAFE\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE
 C:\Users\Admin\Desktop\DoAn_QLCAFE\DoAn_QLCAFE\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.Properties.Resources.resources
 C:\Users\Admin\Desktop\DoAn_QLCAFE\DoAn_QLCAFE\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.ThucDon.resources
 C:\Users\Admin\Desktop\DoAn_QLCAFE\DoAn_QLCAFE\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\bin\Debug\DoAn_QLCAFE.exe.config
+C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.exe
+C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.pdb

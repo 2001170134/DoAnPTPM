@@ -22,6 +22,7 @@ namespace DoAn_QLCAFE
             panel1.Controls.Clear();
             LoaiDoUong tq = new LoaiDoUong();
             panel1.Controls.Add(tq);
+            Close();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -54,6 +55,11 @@ namespace DoAn_QLCAFE
             panel1.Controls.Clear();
             BanAn td = new BanAn();
             panel1.Controls.Add(td);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
