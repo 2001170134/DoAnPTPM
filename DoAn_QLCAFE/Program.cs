@@ -16,7 +16,7 @@ namespace DoAn_QLCAFE
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmMain());
+            Application.Run(new Login());
         }
     }
 }

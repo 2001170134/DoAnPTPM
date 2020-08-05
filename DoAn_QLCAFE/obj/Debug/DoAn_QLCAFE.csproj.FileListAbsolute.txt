@@ -34,3 +34,4 @@ C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.LoaiDoUong.res
 C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.Properties.Resources.resources
 C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.ThucDon.resources
 C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnPTPM\DoAn_QLCAFE\obj\Debug\DoAn_QLCAFE.Login.resources
